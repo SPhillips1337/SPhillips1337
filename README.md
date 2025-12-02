@@ -79,4 +79,6 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 
 <div align="center">
     <p><i>Thanks for visiting! Feel free to check out my repositories.</i></p>
+    <p><i>If you want to donate to the cause, feel free to send me some #Bitcoin at: <strong>1KvuiURgkgQfCwF9zFSqgwCAuNrA5LuJNY</strong></i></p>
+    <p><img src="https://cryptoswap.site/images/btc.png" width="96%" style="max-width:200px;"></p>
 </div>
