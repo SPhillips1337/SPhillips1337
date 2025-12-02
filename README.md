@@ -64,7 +64,6 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 
 <div align="center">
   <a href="https://github.com/SPhillips1337">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SPhillips1337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPhillips1337&layout=compact&theme=tokyonight"/>
   </a>
 </div>
@@ -80,5 +79,4 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 <div align="center">
     <p><i>Thanks for visiting! Feel free to check out my repositories.</i></p>
     <p><i>If you want to donate to the cause, feel free to send me some #Bitcoin at: <strong>1KvuiURgkgQfCwF9zFSqgwCAuNrA5LuJNY</strong></i></p>
-    <p><img src="https://cryptoswap.site/images/btc.png" width="96%" style="max-width:200px;"></p>
 </div>
