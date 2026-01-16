@@ -24,8 +24,8 @@ With over **24 years of experience** in the IT industry, I am a seasoned Compute
 
 Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tools like **Amazon Q**, **OpenAI**, and **n8n** to build "Agentic" AI tools and automation workflows. Whether it's maintaining complex legacy CMS platforms or "vibe coding" the next generation of AI apps, I love building things that work.
 
-* 🔭 **Currently working on:** AI Automation at [HappyMonkey.ai](https://happymonkey.ai) and bespoke automation tools.
-* 🌱 **Currently learning:** Advanced Agentic AI patterns with Relevance.ai and the Roots.io Bedrock framework.
+* 🔭 **Currently working on:** AI Automation at [HappyMonkey.ai](https://happymonkey.ai), bespoke automation tools, and part time code a game in beta at https://mrpg.stephenphillips.co.uk made using Node JS, and React.
+* 🌱 **Currently learning:** How to use Google Antigravity IDE, Google Jules, setting up MCP servers, and playing with vision agentic LLM models.
 * 👯 **Looking to collaborate on:** Open Source PHP projects and AI integration workflows.
 * ⚡ **Fun fact:** I also make electronic music, play electric guitar, and enjoy homebrewing!
 
@@ -57,16 +57,6 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SPhillips1337">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPhillips1337&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
