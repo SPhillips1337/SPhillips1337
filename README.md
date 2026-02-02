@@ -65,8 +65,7 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 * **[HappyMonkey.ai](https://happymonkey.ai)**: Leveraging Agentic AI to create innovative automation solutions.
 * **[MPRG](https://mrpg.stephenphillips.co.uk)**: a multiplayer 2D RPG built on top of the Phaser Map Gen example, featuring real-time multiplayer functionality with procedural world generation. Players can explore an infinite world together, seeing each other move in real-time across varied terrain with dynamic chunk loading.
 * **[Aura AI Chatbot](https://aura.happymonkey.ai)**: AURA.ai Chatbot is a proactive chatbot that simulates human-like thinking by generating thoughts, maintaining memory, and evolving personality. Unlike traditional chatbots that only respond to user inputs, AURA.ai Chatbot can initiate conversations with dynamically generated thoughts based on previous interactions and current events.
-* **[BoboTBear NFT](https://happymonkey.ai](https://bobo.cryptoswap.site/)**: Generative NFT collection featuring "Bobo the Ledger Bear" with **rarity system**, **dual web interfaces** (Python + PHP), and real-time crypto integration.
-* **[AI Stock Photos](https://happymonkey.ai](https://stock.happymonkey.ai/)**: A professional stock photo website featuring AI-generated images organized by categories.
+* **[AI Stock Photos](https://stock.happymonkey.ai/)**: A professional stock photo website featuring AI-generated images organized by categories.
   
 * [cite_start]**Bespoke CMS & E-commerce**: Decades of experience building custom platforms using PHP, CodeIgniter, and Laravel[cite: 9, 145].
 * [cite_start]**Personal Projects**: Including an instant messenger, video player, and image library[cite: 157].
