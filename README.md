@@ -28,6 +28,10 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 * 🌱 **Currently learning:** How to use Google Antigravity IDE, Google Jules, setting up MCP servers, and playing with vision agentic LLM models.
 * 👯 **Looking to collaborate on:** Open Source PHP projects and AI integration workflows.
 * ⚡ **Fun fact:** I also make electronic music, play electric guitar, and enjoy homebrewing!
+* 
+**Specializing in Local LLM Implementation, Agentic Workflows, and Game Logic.**
+
+I build bridge-systems that connect traditional software architecture with modern Artificial Intelligence. Beyond my public contributions, I have extensive experience building **private, production-ready AI agents** and **automated trading systems** using Python, PyTorch, and local-first LLM orchestration (OpenAI API, Openrouter.ai, and Ollama).
 
 ---
 
@@ -59,18 +63,60 @@ Recently, I have pivoted deeply into **Artificial Intelligence**, utilizing tool
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
+### 🚀 Featured Work & Projects
+#### 🐒 [HappyMonkey.ai](https://happymonkey.ai)
+- Leveraging Agentic AI to create innovative intelligent smart business automation solutions.
 
-### 🚀 Featured Projects & Experience
+#### 🌌 [Antigravity Agents Prompt Protocol](https://github.com/SPhillips1337/AntigravityAgentsPromptProtocol)
+A specialized framework for orchestrating complex AI agent behaviors.
+- **Focus:** Standardizing prompt structures to ensure high-fidelity reasoning and task execution in multi-agent environments.
 
-* **[HappyMonkey.ai](https://happymonkey.ai)**: Leveraging Agentic AI to create innovative automation solutions.
-* **[MPRG](https://mrpg.stephenphillips.co.uk)**: a multiplayer 2D RPG built on top of the Phaser Map Gen example, featuring real-time multiplayer functionality with procedural world generation. Players can explore an infinite world together, seeing each other move in real-time across varied terrain with dynamic chunk loading.
-* **[Aura AI Chatbot](https://aura.happymonkey.ai)**: AURA.ai Chatbot is a proactive chatbot that simulates human-like thinking by generating thoughts, maintaining memory, and evolving personality. Unlike traditional chatbots that only respond to user inputs, AURA.ai Chatbot can initiate conversations with dynamically generated thoughts based on previous interactions and current events.
-* **[AI Stock Photos](https://stock.happymonkey.ai/)**: A professional stock photo website featuring AI-generated images organized by categories.
-  
-* **Bespoke CMS & E-commerce**: Decades of experience building custom platforms using PHP, CodeIgniter, and Laravel.
-* **Personal Projects**: Including an instant messenger, video player, and image library.
+#### 🔗 [LLM Auto-Redirect](https://github.com/SPhillips1337/LLM-Auto-Redirect)
+An intelligent routing tool for Large Language Model queries.
+- **Focus:** Optimizing model usage by dynamically redirecting prompts to the most efficient endpoint based on context or complexity.
 
-<div align="center">
-    <p><i>Thanks for visiting! Feel free to check out my repositories.</i></p>
-    <p><i>If you want to donate to the cause, feel free to send me some #Bitcoin at: <strong>1KvuiURgkgQfCwF9zFSqgwCAuNrA5LuJNY</strong></i></p>
-</div>
+#### 🤖 [Jules API Automation](https://github.com/SPhillips1337/JulesAPIAutomation)
+A robust automation suite designed for streamlined API interaction and testing.
+- **Focus:** Reducing manual overhead by creating automated workflows that handle authentication, request cycling, and response validation.
+
+#### 📋 [Project JSON Schema](https://github.com/SPhillips1337/Project-JSON-Schema)
+A structured data definition project for maintaining consistency across development environments.
+- **Focus:** Utilizing JSON Schema to enforce data integrity and provide clear documentation for complex project configurations.
+
+#### 🎵 [Songbird](https://github.com/SPhillips1337/Songbird) & [MRPG](https://github.com/SPhillips1337/MRPG)
+Two core passion projects involving **Audio Integration** and **Multi-user Role Playing Game** logic, showcasing experience in stateful, real-time application design.
+
+#### ⚡ [VueJS Todo](https://github.com/SPhillips1337/VueJS-Todo)
+A clean, reactive task management application.
+- **Focus:** Demonstrating frontend proficiency with Vue.js, focusing on state management, component architecture, and fluid UX.
+
+---
+
+### 🧠 Expertise & Themes
+
+While much of my work in **AI Automation** and **Quantitative Trading** remains in private production environments, my core competencies include:
+
+* **Local AI Orchestration:** Building private-first RAG and Agentic systems using **Ollama**, **LangGraph**, and **Qwen/Llama** models.
+* **Data Intelligence:** Large-scale data processing and post-inference reporting using **Pandas** and **multimodal LLMs**.
+* **Logic Systems:** Designing complex backend architectures, from game engines to trading execution logic.
+
+---
+
+### 🛠️ Technical Stack
+
+- **AI & Data:** Python (PyTorch, Pandas, Scikit-learn), Ollama, HuggingFace.
+- **Languages:** PHP (Laravel), JavaScript (Vue), CSS/HTML.
+- **Tools:** Git, Docker, MySQL, SQLite, REST APIs.
+
+---
+
+### 📈 GitHub Stats
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPhillips1337&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPhillips1337&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/stephen-phillips-a6bb35189](https://www.linkedin.com/in/stephen-phillips-a6bb35189/)
+- **CV:** [View my Full CV](./CV.md)
+- **Website:** [stephenphillips.co.uk](https://stephenphillips.co.uk)
