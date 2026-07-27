@@ -136,6 +136,7 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 
 ## KEY ACHIEVEMENTS & ECOSYSTEM ENGAGEMENT
 
+* **2026 AI Innovator Award — SPARK TSL:** Won the company’s AI Innovator award in recognition of contributions to AI-focused engineering and innovation.
 * **TechCrunch Startup Battlefield 200 (2026):** Entered as a founder and lead architect for ACE EU AI, showcasing regulatory AI automation on a global stage.
 * **Ecosystem Engagement:** Attended the **London AI Accelerator Event (2026)**, learning from leading AI researchers and founders, and competing in a hackathon to build an AI powered product.
 * **Agentic AI & Orchestration:** Built advanced multi-agent systems (*SongbirdV2*, *JulesMCP*, *DynamicMCPProxy*) to automate highly complex creative workflows and development tasks.

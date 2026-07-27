@@ -17,6 +17,7 @@ Beyond enterprise applications, I am deeply embedded in the open-source AI ecosy
 
 **Selected projects & impact**
 
+* **2026 AI Innovator Award — SPARK TSL.** I was recognised with the company’s AI Innovator award for my contributions to AI-focused engineering and innovation.
 * **Agent Communication MCP.** Built and verified an authenticated LAN coordination layer for development and desktop agents, with scoped filesystem and artifact exchange, A2A-shaped task mailboxes, agent cards, lifecycle events, provider-readiness reporting and bounded control-centre projections.
 * **Resource Sentinel MCP.** Implemented deterministic resource telemetry and lease-based admission control for local AI workloads using FastMCP, Python and SQLite-backed queue/lease state, with HTTP health and telemetry adapters.
 * **OpenUKPublicDataMCP.** Shipped a no-key-first, source-cited MCP server and web explorer for UK public data, delivering 23+ read-only tools across GOV.UK, ONS, bank holidays, carbon intensity, flood monitoring, planning and related datasets.

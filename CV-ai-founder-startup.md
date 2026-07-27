@@ -25,6 +25,10 @@ I am comfortable owning the whole path from problem framing and technical strate
 - Open-source development, technical documentation and demo preparation
 - Practical security, compliance and operational boundaries
 
+## RECOGNITION
+
+- **2026 AI Innovator Award — SPARK TSL:** Won the company’s AI Innovator award in recognition of contributions to AI-focused engineering and innovation.
+
 ## CURRENT AND RECENT PRODUCTS
 
 ### ACE EU AI — Lead Architect & Founder

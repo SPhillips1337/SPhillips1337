@@ -22,6 +22,10 @@ Full-stack developer with 25+ years of experience delivering bespoke web applica
 - **AI integration:** OpenAI-compatible APIs, local LLMs, MCP, n8n, Flowise, Langfuse, RAG, Whisper, Miso TTS and Pocket TTS
 - **Product delivery:** Technical discovery, MVP development, legacy modernisation, accessibility, SEO, hosting and client communication
 
+## RECOGNITION
+
+- **2026 AI Innovator Award — SPARK TSL:** Won the company’s AI Innovator award in recognition of contributions to AI-focused engineering and innovation.
+
 ## PROFESSIONAL EXPERIENCE
 
 ### Software Engineer | SPARK TSL / WiFi SPARK Ltd | Aug 2022 – Present

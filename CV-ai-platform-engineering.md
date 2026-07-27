@@ -21,6 +21,10 @@ Full-stack software engineer and AI systems architect with 25+ years of experien
 - **Data and state:** SQLite, PostgreSQL, MySQL, T-SQL, queues, leases, webhooks and structured event flows
 - **Engineering practice:** deterministic policy, bounded agent loops, scoped access, secret-safe diagnostics, source-linked evidence and incremental verification
 
+## RECOGNITION
+
+- **2026 AI Innovator Award — SPARK TSL:** Won the company’s AI Innovator award in recognition of contributions to AI-focused engineering and innovation.
+
 ## PROFESSIONAL EXPERIENCE
 
 ### Software Engineer | SPARK TSL / WiFi SPARK Ltd | Aug 2022 – Present
