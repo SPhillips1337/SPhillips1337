@@ -20,7 +20,7 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 
 ## CORE TECHNICAL SKILLS
 
-* **AI / LLM / Agentic Orchestration:** Model Context Protocol (MCP), Local LLMs (Ollama, LM Studio), multi-agent swarms, context window optimization, Flowise, Langfuse, n8n (workflows), retrieval-augmented generation (RAG), vector stores
+* **AI / LLM / Agentic Orchestration:** Model Context Protocol (MCP), Local LLMs (Ollama, LM Studio), multi-agent swarms, context window optimization, Flowise, Langfuse, n8n (workflows), retrieval-augmented generation (RAG), vector stores, Whisper, Miso TTS and Pocket TTS
 * **Languages & Frameworks:** PHP (incl. PHP8 migration, Laravel, CodeIgniter), Python, JavaScript/TypeScript (Vue.js, Node.js, React), HTML/CSS, SQL (T-SQL, MySQL, Postgres), FastAPI
 * **Infra & DevOps:** Docker / Docker Compose (Windows + Linux), Caddy reverse proxy, Nginx/Apache, AWS/GCP, Bash, Git, rclone, onedrive-d
 * **Databases & Integrations:** T-SQL, MySQL, Postgres, SQLite, low-latency webhooks, REST APIs, message orchestration, algorithmic execution networks (Hyperliquid)
@@ -47,6 +47,54 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 **What:** Built and operate a multi-service local AI platform for experimentation and production prototypes. Services include n8n, Flowise, Open WebUI, Langfuse and supporting tooling, orchestrated with Docker Compose on Windows 11 and Linux.
 **Role & Tech:** Container architecture, Compose manifests, local networking and reverse proxy configuration (Caddy) to expose services on the LAN (e.g., n8n, Flowise, Open WebUI). Implemented secure local access patterns and developer workflows for the team.
 **Impact:** Enabled rapid prototyping and reproducible developer environments for AI products.
+
+### Recent Open-Source and Product Engineering Work (2026)
+
+### Agent Communication MCP — Lead Developer
+* **What:** Built and verified an authenticated LAN coordination layer for development and desktop agents.
+* **Role & Tech:** FastMCP, scoped filesystem and artifact exchange, A2A-shaped task mailboxes, agent cards, lifecycle events, provider-readiness reporting, sandboxing and bounded control-centre activity projections.
+* **Engineering focus:** Designed secret-safe diagnostics and authorization boundaries so agent coordination remains inspectable and controlled rather than exposing arbitrary host access.
+
+### Resource Sentinel MCP — Creator & Core Developer
+* **What:** Implemented a local resource telemetry and lease-based admission-control service for AI agent workloads.
+* **Role & Tech:** FastMCP, Python, SQLite-backed queue and lease state, injectable telemetry, deterministic policy, HTTP health/telemetry adapters and systemd user-service deployment.
+* **Engineering focus:** Added bounded execution slots and graceful telemetry integration for resource-aware local agent workloads, including a GLITCH-compatible telemetry projection.
+
+### OpenUKPublicDataMCP — Creator & Core Developer
+* **What:** Shipped a no-key-first, source-cited MCP server and web explorer for UK public data.
+* **Role & Tech:** FastMCP, FastAPI, React/Vite, official UK public-sector and community data adapters, source metadata, retrieval timestamps and optional-key enrichments.
+* **Impact:** Delivered 23+ read-only MCP tools covering postcodes, GOV.UK content, bank holidays, carbon intensity, public datasets, flood monitoring, ONS data, planning and related lookups.
+
+### GLITCH — Product and Technical Lead (MVP)
+* **What:** Developed the browser-first MVP for a low-fi AI cyber pet with deterministic mood and vitals state, WebSocket sessions and a minimal terminal/pixel interface.
+* **Role & Tech:** FastAPI, WebSockets, vanilla HTML/CSS/JavaScript, SQLite WAL design, deterministic state transitions and optional Resource Sentinel telemetry.
+* **Status:** Text-loop MVP scaffold and tests are implemented; streaming voice integration is intentionally a later slice.
+
+### GoSafe — Full-Stack Product Developer
+* **What:** Built and developed **[https://gosafe.happymonkey.ai](https://gosafe.happymonkey.ai)**, an AI-enabled security product focused on helping organisations identify and respond to exposed credentials and cyber risk.
+* **Role & Tech:** Full-stack product engineering, passwordless magic-link authentication, saved-user libraries and AI-assisted workflow design.
+
+### Riffly — Creator & Core Developer
+* **What:** Built and developed **[https://riffly.happymonkey.ai](https://riffly.happymonkey.ai)**, a browser-first product that turns audio into playable guitar riffs and tablature.
+* **Role & Tech:** Python transcription API, Spotify Basic Pitch, polyphonic pitch/onset detection, fret/string optimisation, Web Audio playback, Web Share API and secure mobile microphone development.
+
+### Hackathon Entries
+* **Qwen Global AI Hackathon — repo.spot:** Entered the Global AI Hackathon Series — Qwen Cloud Agent Society track with an autonomous DevSecOps agent swarm. Designed a bounded Auditor → Architect → QA workflow that risk-scores repository files, proposes targeted patches and keeps human sign-off in the loop.
+* **OpenAI Build Week — FramesDoc / Video Document Agent:** Entered OpenAI Build Week with an AI documentation agent that turns meeting recordings into timestamped, evidence-linked runbooks and knowledge pages. Built the vertical slice around transcript evidence, hybrid keyframe selection, optional Tesseract OCR, structured multimodal analysis, provenance-preserving artifacts and human review.
+
+### Modern Voice AI and Assistant Engineering
+
+### Miso TTS Docker — Creator & Core Developer
+* **What:** Built an unofficial Docker Compose deployment for local Miso TTS 8B and Pocket TTS voice backends, with a browser conversational demo.
+* **Role & Tech:** NVIDIA GPU passthrough, PyTorch/CUDA, Hugging Face model caching, Whisper speech recognition, OpenAI-compatible LLM endpoints, Pocket TTS CPU fast mode, Miso GPU quality mode and Caddy HTTPS for LAN microphone access.
+* **Impact:** Created a practical local voice-assistant development stack with switchable low-latency CPU and higher-quality GPU speech paths.
+
+### HappyMonkey.ai Voice Assistant / AVIL — Creator & Core Developer
+* **What:** Developed a low-latency, bidirectional AI voice receptionist and dashboard for HappyMonkey.ai.
+* **Role & Tech:** FastAPI WebSockets, Docker Compose, Deepgram streaming STT, Cartesia streaming TTS, OpenAI-compatible local/hosted LLMs, Web Audio and SQLite-backed intake state.
+* **Impact:** Implemented real-time conversational capture of caller requirements and structured business workflows, including discovery-call holds and follow-up email drafting.
+
+---
 
 ### RAG / OneDrive Sync for n8n Training Data
 
