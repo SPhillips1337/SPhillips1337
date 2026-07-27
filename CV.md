@@ -29,7 +29,7 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 ## SELECTED PROJECTS & EXPERTISE (HIGHLIGHTS)
 
 ### ACE EU AI — Lead Architect & Founder (2026)
-* **What:** Designed and engineered a vertical-slice MVP automated compliance and regulatory alignment platform for the EU AI Act, entered to the prestigious **TechCrunch Startup Battlefield 200 (2026)**.
+* **What:** Designed and engineered a vertical-slice MVP automated compliance and regulatory alignment platform for the EU AI Act, entered in the prestigious **TechCrunch Startup Battlefield 200 (2026)**.
 * **Role & Tech:** Multi-agent swarm architecture capable of auditing complex AI systems against rigid legal guardrails. Drove the technical strategy, product demo engineering, and investor-readiness framework.
 
 ### a2m.one — Creator & Core Developer (2026)
@@ -63,7 +63,7 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 * Built and maintain a containerised AI developer platform (Docker Compose) hosting **n8n**, **Flowise**, **Open WebUI**, **Langfuse** and associated services; configured **Caddy** to securely expose services on the local network.
 * Designed OneDrive ingestion architecture (rclone / onedrive-d) and n8n-based pipelines for document indexing to support RAG training and developer search.
 
-### Freelance Web Developer & Agency Principal | **Stephen Phillips / HappyMonkey.ai** | Feb 2009 – Present
+### Freelance Web Developer & Agency Principal | **Stephen Phillips / HappyMonkey.ai** | Feb 2009 – 2022
 * Over 25 years delivering bespoke software engineering, scalable e-commerce solutions, and custom WordPress plugins (including *LLM Auto Redirect* for automated site recovery).
 * Build private, production-ready AI agents and custom algorithmic trading systems integrated with low-latency execution networks like **Hyperliquid** using Python and local-first LLM orchestration.
 * End-to-end web development, SEO, WordPress, and bespoke PHP systems for a wide range of enterprise and small-business clients.
