@@ -29,7 +29,7 @@ Practical, results-oriented full-stack developer and AI systems architect with 2
 ## SELECTED PROJECTS & EXPERTISE (HIGHLIGHTS)
 
 ### ACE EU AI — Lead Architect & Founder (2026)
-* **What:** Designed and engineered a vertical-slice MVP automated compliance and regulatory alignment platform for the EU AI Act, selected for the prestigious **TechCrunch Startup Battlefield 200 (2026)**.
+* **What:** Designed and engineered a vertical-slice MVP automated compliance and regulatory alignment platform for the EU AI Act, entered to the prestigious **TechCrunch Startup Battlefield 200 (2026)**.
 * **Role & Tech:** Multi-agent swarm architecture capable of auditing complex AI systems against rigid legal guardrails. Drove the technical strategy, product demo engineering, and investor-readiness framework.
 
 ### a2m.one — Creator & Core Developer (2026)
