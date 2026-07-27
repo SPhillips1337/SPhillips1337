@@ -6,6 +6,8 @@
 **Email:** [stephen.phillips.work@gmail.com](mailto:stephen.phillips.work@gmail.com) 
 **Portfolio:** [https://www.stephenphillips.co.uk](https://www.stephenphillips.co.uk)
 **GitHub:** [https://github.com/SPhillips1337](https://github.com/SPhillips1337)
+**OpenSource Github Org:** [https://github.com/HappyMonkeyAI](https://github.com/HappyMonkeyAI)
+**AI Agency Website:** [https://happymonkey.ai](https://happymonkey.ai)
 **LinkedIn:** [https://www.linkedin.com/in/stephen-phillips-a6bb35189/](https://www.linkedin.com/in/stephen-phillips-a6bb35189/)
 
 ---
